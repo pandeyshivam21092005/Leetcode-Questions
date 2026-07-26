@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0409-longest-palindrome) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
