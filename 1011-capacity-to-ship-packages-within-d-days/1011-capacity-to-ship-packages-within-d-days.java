@@ -3,18 +3,18 @@ class Solution {
         int mincap=0;
         int maxcap=0;
         for(int weight:weights){
-            mincap=Math.max(mincap,weight);
-            maxcap+=weight;
+            mincap=Math.max(mincap,weight); // maximum weight
+            maxcap+=weight;      // total weight
         }
         int ans=maxcap;
         while(mincap<=maxcap){
             int mid=mincap+(maxcap-mincap)/2;
             if(canship(weights,days,mid)){
                 ans=mid;
-                maxcap=mid-1;
+                maxcap=mid-1; // try smaller capacity
             }
             else{
-                mincap=mid+1;
+                mincap=mid+1;   // increase capacity
             }
 
         }
