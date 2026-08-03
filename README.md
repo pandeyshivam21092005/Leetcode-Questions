@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
