@@ -5,9 +5,9 @@ class Solution {
                 int diff1=Math.abs(a-x);
                 int diff2=Math.abs(b-x);
                 if(diff1==diff2){
-                    return b-a;
+                    return b-a;   // larger element first
                 }
-                return diff2-diff1;
+                return diff2-diff1;   // larger distance first
             }
         );
         for(int num:arr){
