@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 ## Queue
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 ## Array
 |  |
 | ------- |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
@@ -125,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
