@@ -205,4 +205,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
