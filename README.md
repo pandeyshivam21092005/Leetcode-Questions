@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0007-reverse-integer) |
 | [0509-fibonacci-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
