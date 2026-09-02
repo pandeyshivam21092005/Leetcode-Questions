@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0046-permutations) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0275-h-index-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
