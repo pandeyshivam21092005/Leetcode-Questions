@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0630-course-schedule-iii) |
