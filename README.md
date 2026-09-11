@@ -290,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [1527-patients-with-a-condition](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
