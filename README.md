@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0383-ransom-note) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0046-permutations) |
+| [0073-set-matrix-zeroes](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
