@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0136-single-number) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -315,5 +317,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
