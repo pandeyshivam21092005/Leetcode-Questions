@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0630-course-schedule-iii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0704-binary-search) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
@@ -333,4 +336,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
