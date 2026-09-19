@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0054-spiral-matrix) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
