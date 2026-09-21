@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0162-find-peak-element) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
