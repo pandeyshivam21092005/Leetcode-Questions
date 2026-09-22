@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2643-row-with-maximum-ones](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/2643-row-with-maximum-ones) |
 ## Sorting
 |  |
 | ------- |
