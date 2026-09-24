@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -379,4 +381,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
