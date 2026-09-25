@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0169-majority-element) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0383-ransom-note](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0383-ransom-note) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0509-fibonacci-number) |
