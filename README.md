@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0031-next-permutation) |
@@ -386,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
