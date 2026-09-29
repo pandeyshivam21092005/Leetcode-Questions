@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0136-single-number) |
 ## Database
 |  |
