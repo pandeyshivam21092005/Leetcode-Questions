@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0275-h-index-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0216-combination-sum-iii) |
 ## Stack
 |  |
 | ------- |
