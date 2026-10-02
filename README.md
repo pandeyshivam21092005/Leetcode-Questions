@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0383-ransom-note](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0090-subsets-ii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0216-combination-sum-iii) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
