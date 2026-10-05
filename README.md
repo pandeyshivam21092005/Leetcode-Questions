@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0282-expression-add-operators) |
 | [0383-ransom-note](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0409-longest-palindrome) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0189-rotate-array) |
+| [0282-expression-add-operators](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0282-expression-add-operators) |
 ## Stack
 |  |
 | ------- |
