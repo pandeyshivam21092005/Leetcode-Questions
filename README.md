@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -445,9 +447,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Tournament Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
