@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0630-course-schedule-iii) |
+| [0678-valid-parenthesis-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Prefix Sum
 |  |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
