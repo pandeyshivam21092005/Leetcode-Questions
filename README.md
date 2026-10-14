@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0409-longest-palindrome) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0054-spiral-matrix) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
