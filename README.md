@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Queue
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Recursion
 |  |
