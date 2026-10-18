@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0767-reorganize-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Greedy
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
+| [0992-subarrays-with-k-different-integers](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
