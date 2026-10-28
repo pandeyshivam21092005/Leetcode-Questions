@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0283-move-zeroes) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0502-ipo) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -531,4 +535,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/2104-sum-of-subarray-ranges) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
