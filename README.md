@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Tournament Sort
 |  |
@@ -553,9 +555,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0901-online-stock-span](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
