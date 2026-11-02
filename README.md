@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0409-longest-palindrome) |
+| [0460-lfu-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Tournament Sort
 |  |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -565,4 +568,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
