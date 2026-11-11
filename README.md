@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0409-longest-palindrome) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -577,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0901-online-stock-span) |
 ## Data Stream
