@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0735-asteroid-collision) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Bit Manipulation
 |  |
@@ -586,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0901-online-stock-span) |
@@ -598,4 +603,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0460-lfu-cache) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/pandeyshivam21092005/Leetcode-Questions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
